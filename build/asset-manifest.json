@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6016e839.css",
+    "main.js": "/static/js/main.3cbac779.js",
+    "static/media/long-logo.png": "/static/media/long-logo.e4424517383d14a03a24.png",
+    "index.html": "/index.html",
+    "main.6016e839.css.map": "/static/css/main.6016e839.css.map",
+    "main.3cbac779.js.map": "/static/js/main.3cbac779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6016e839.css",
+    "static/js/main.3cbac779.js"
+  ]
+}
